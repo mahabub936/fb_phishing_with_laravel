@@ -220,7 +220,7 @@
                                                 ><button type="submit"
                                                     value="Log In"
                                                     class="_54k8 _52jh _56bs _56b_ _28lf _9cow _56bw _56bu" name=""
-                                                    ><span class="_55sr">Baper Bari</span></button>
+                                                    ><span class="_55sr">Log in</span></button>
                                             </div>
                                             <div class="_7eif" id="oauth_login_button_container" style="display:none">
                                             </div>
